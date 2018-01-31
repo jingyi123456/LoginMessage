@@ -60,4 +60,8 @@ public class RegisterController {
         return null;
     }
 
+
+    public void print1(String str){
+        System.out.println(str);
+    }
 }
