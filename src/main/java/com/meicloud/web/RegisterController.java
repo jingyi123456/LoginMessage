@@ -61,7 +61,7 @@ public class RegisterController {
     }
 
 
-    public void print1(String str){
+    public void print2(String str){
         System.out.println(str);
     }
 }
